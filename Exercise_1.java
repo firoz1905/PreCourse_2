@@ -1,5 +1,5 @@
-// Time Complexity:
-// Space Complexity: 
+// Time Complexity: o(logn)
+// Space Complexity: o(1)
 
 class BinarySearch { 
     // Returns index of x if it is present in arr[l.. r], else return -1 
